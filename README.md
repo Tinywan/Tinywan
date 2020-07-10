@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### contact me
+### Basic Info
 
-- Email: [mritd@linux.com](mailto:mritd@linux.com)
-- GitHub: [https://github.com/mritd](https://github.com/mritd)
-- Telegram: [https://t.me/bleem_orz](https://t.me/bleem_orz)
-- Twitter: [https://twitter.com/mritd1234](https://twitter.com/mritd1234)
+- Home: [https://www.tinywan.com/](https://www.tinywan.com/)
+- Email: [756684177@qq.com](mailto:756684177@qq.com)
+- GitHub: [https://github.com/Tinywan](https://github.com/Tinywan)
 
