@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 I’m currently working on ...
 
 <!--
 **Tinywan/Tinywan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### contact me
+
+- Email: [mritd@linux.com](mailto:mritd@linux.com)
+- GitHub: [https://github.com/mritd](https://github.com/mritd)
+- Telegram: [https://t.me/bleem_orz](https://t.me/bleem_orz)
+- Twitter: [https://twitter.com/mritd1234](https://twitter.com/mritd1234)
+
