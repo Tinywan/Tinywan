@@ -1,5 +1,3 @@
-### 🔭 I’m currently working on ...
-
 <!--
 **Tinywan/Tinywan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Basic Info
-
-- Home: [https://www.tinywan.com/](https://www.tinywan.com/)
-- Email: [756684177@qq.com](mailto:756684177@qq.com)
-- GitHub: [https://github.com/Tinywan](https://github.com/Tinywan)
+### Home: [https://www.tinywan.com/](https://www.tinywan.com/)
+### Email: [756684177@qq.com](mailto:756684177@qq.com)
+### GitHub: [https://github.com/Tinywan](https://github.com/Tinywan)
 
