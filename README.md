@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 💬 ![image title](https://rushter.com/counter.svg)
 
-|id |name|desc|
-|:----    |:---|:---|
-|1| Home | [https://www.tinywan.com/](https://www.tinywan.com/) |
-|2| Email| [756684177@qq.com](mailto:756684177@qq.com)|
+<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+<source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
+</video>
 
