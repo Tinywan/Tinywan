@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image title](https://rushter.com/counter.svg)
 
 * Home: [https://www.tinywan.com/](https://www.tinywan.com/)
 * Email: [756684177@qq.com](mailto:756684177@qq.com)
