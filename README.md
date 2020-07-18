@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
 
+|param |type|desc|
+|:----    |:---|:---|
+|code| int | error code   |
+|msg| string| error msg   |
+|data| object | data content  |
+
 - Home: [https://www.tinywan.com/](https://www.tinywan.com/)
 - Email: [756684177@qq.com](mailto:756684177@qq.com)
 
