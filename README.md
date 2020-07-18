@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on ...
 
-* Home: [https://www.tinywan.com/](https://www.tinywan.com/)
-* Email: [756684177@qq.com](mailto:756684177@qq.com)
+- Home: [https://www.tinywan.com/](https://www.tinywan.com/)
+- Email: [756684177@qq.com](mailto:756684177@qq.com)
+
 ![image title](https://rushter.com/counter.svg)
 
