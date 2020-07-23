@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![image title](https://rushter.com/counter.svg)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&theme=radical&line_height=40)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinywan&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
