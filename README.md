@@ -16,15 +16,5 @@ Here are some ideas to get you started:
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![image title](https://rushter.com/counter.svg)
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinywan&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinywan&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
