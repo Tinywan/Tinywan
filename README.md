@@ -16,5 +16,12 @@ Here are some ideas to get you started:
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![image title](https://rushter.com/counter.svg)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tinywan&theme=radical&hide_langs_below=1" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tinywan&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+</a>
+
 
