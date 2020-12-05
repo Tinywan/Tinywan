@@ -19,6 +19,12 @@
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+### Hi there 👋
+
+#### I'm a Backend DevOps Engineer working in China.
+
+##### BIO
+
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.lua`
 - 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
