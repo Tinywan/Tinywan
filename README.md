@@ -35,6 +35,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&theme=radical&line_height=40)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinywan&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Snipaste_2021-05-09_13-57-08](https://user-images.githubusercontent.com/14959876/117562097-f4199180-b0ce-11eb-9a77-cda0a5daf70a.jpg)
 
 
