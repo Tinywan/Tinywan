@@ -31,3 +31,5 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Tinywan&row=1&column=7&margin-w=32&theme=flat&no-bg=true&no-frame=true"/>
 </p>
+
+![Alt](https://repobeats.axiom.co/api/embed/419c3efdf8c658c35a5b2a27b92eac34fffdb6f6.svg "Repobeats analytics image")
