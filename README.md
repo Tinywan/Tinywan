@@ -28,9 +28,11 @@
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**
 - 😄&nbsp;&nbsp; Learning all about **Open Source**
 
+<!--
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Tinywan&row=1&column=7&margin-w=32&theme=flat&no-bg=true&no-frame=true"/>
 </p>
+-->
 
 <p>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Tinywan&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
