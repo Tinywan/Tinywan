@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tinywan&repo=H5-dash-hls-rtmp-webrtc&theme=swift)](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tinywan&repo=webman-jwt&theme=swift)](https://github.com/Tinywan/webman-jwt)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinywan&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
