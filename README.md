@@ -39,6 +39,8 @@
 </p>
 -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinywan&theme=github)
+
 ### Skills 🌈
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg"></code>
