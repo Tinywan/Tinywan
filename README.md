@@ -39,6 +39,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinywan&theme=github)
 
+## 微信公众号 🤝
+
+<img width="150px" src="https://mmbiz.qpic.cn/mmbiz_png/78qLgY8U7F1umT6oaVuKCN4ibKqiaNOHjCdTKVl1405iczs6IrutF1WXM0otcAGWeedibdCNvcDoDYfGTZDYviacXUA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="workbunny">
+
 ### Skills 🌈
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg"></code>
