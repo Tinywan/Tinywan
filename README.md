@@ -35,13 +35,12 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Tinywan&row=1&column=7&margin-w=32&theme=flat&no-bg=true&no-frame=true"/>
 </p>
--->
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinywan&theme=github)
+-->
 
 ## 微信公众号 🤝
 
-<img width="150px" src="https://mmbiz.qpic.cn/mmbiz_png/78qLgY8U7F1umT6oaVuKCN4ibKqiaNOHjCdTKVl1405iczs6IrutF1WXM0otcAGWeedibdCNvcDoDYfGTZDYviacXUA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="workbunny">
+<img width="150px" src="https://open.weixin.qq.com/qr/code?username=gh_7df99c2f16a3" alt="微信公众号">
 
 ### Skills 🌈
 
