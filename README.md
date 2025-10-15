@@ -38,7 +38,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinywan&theme=github)
 -->
 
-## 微信公众号 🤝
+## 微信公众号 [开源技术小栈] 🤝
 
 <img width="150px" src="https://open.weixin.qq.com/qr/code?username=gh_7df99c2f16a3" alt="微信公众号">
 
